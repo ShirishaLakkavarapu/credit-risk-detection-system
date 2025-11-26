@@ -1,5 +1,4 @@
-Sure, here’s your **clean and professional README.md** version — rewritten in **simple human language** without emojis or extra styling.
-You can directly copy and paste this into your GitHub project.
+
 
 ---
 
